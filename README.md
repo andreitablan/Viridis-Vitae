@@ -1,7 +1,7 @@
 # ViridisVitae
-
 #### Social media web application for passionates of eco-living.
 ### [Demo](https://youtube.com/playlist?list=PLVPR5n6HvKpXgMQjNa-5HL4n-Gx5bOf_G)
+#### The source code is private.
 #### By **Tablan Andrei**, FII UAIC
 
 ## Technologies Used
